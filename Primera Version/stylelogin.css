@@ -213,8 +213,8 @@ button{
 }
 
 .cont.s-signup .img-text.m-up{
-  -webkit-transform:translateX(520px);
-          transform:translateX(520px);
+  -webkit-transform:translateX(1530px);
+          transform:translateX(1530px);
 }
 
 .img-text.m-in{
@@ -247,7 +247,7 @@ button{
   overflow: hidden;
   z-index: 2;
   position: relative;
-  width: 100px;
+  width: 150px;
   height: 36px;
   margin: 0 auto;
   background: transparent;
