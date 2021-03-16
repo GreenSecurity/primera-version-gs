@@ -1,0 +1,5 @@
+1.- Arreglar CSS en:
+
+bootstrap-grid.min.css
+bootstrap.min.css
+font-awesome.min.css
