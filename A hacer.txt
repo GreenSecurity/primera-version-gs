@@ -1,5 +1,2 @@
-1.- Arreglar CSS en:
+sobre nosotros mover eeso a los lados con el titulo centrado
 
-bootstrap-grid.min.css
-bootstrap.min.css
-font-awesome.min.css
