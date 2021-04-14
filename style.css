@@ -4802,6 +4802,10 @@ p::-moz-selection {
     color:#12841e;
     text-shadow: 1px 1px rgba(255, 255, 255, 0);
 }
+h4::-moz-selection {
+    color:#12841e;
+    text-shadow: 1px 1px rgba(255, 255, 255, 0);
+}
 h3::selection {
     color:#12841e;
     text-shadow: 1px 1px #fff;
@@ -4825,8 +4829,8 @@ h5::-moz-selection {
 }
 h4::selection {
 	background: #12841e;
-    color: #333333;;
-    text-shadow: 1px 1px #fff;
+    color:#12841e;
+    text-shadow: 1px 1px #12841e;
 }
 
 /* Firefox */
@@ -4884,7 +4888,7 @@ h3 {
 	color: #333333
 }
 h4 {
-	color: rgb(42, 158, 77);
+	color: #333333;
 }
 h5 {
 	color: #333333
