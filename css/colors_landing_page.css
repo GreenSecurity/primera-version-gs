@@ -96,19 +96,19 @@ a.btn.dark_gray_bt:focus {
 
 a.btn.light_btn,
 button.btn.light_btn {
-	background: #a864a8;
+	background: #12841e;
 }
 
 a.btn.light_btn:hover,
 a.btn.light_btn:focus button.btn.light_btn:hover,
 a.btn.light_btn:focus {
 	background: #fff;
-	color: #632e62;
+	color: #12841e;
 	border-color: #fff;
 }
 
 .modal-backdrop {
-	background-color: rgba(3, 158, 227, .95);
+	background-color: #12841e;
 }
 
 #navbar_menu ul ul,
@@ -137,7 +137,7 @@ hr.dottad_border,
 
 .border_dotted_circle:hover,
 .border_dotted_circle:focus {
-	border-color: #632e62;
+	border-color: #12841e;
 }
 
 .btn.light_theme_bt:hover,
@@ -171,8 +171,8 @@ body.light_blue button.btn.white_btn:hover,
 body.light_blue a.btn.white_btn:hover,
 body.light_blue button.btn.white_btn:focus,
 body.light_blue a.btn.white_btn:focus {
-	background: #632e62;
-	border-color: #632e62;
+	background: #12841e;
+	border-color: #12841e;
 	color: #fff;
 }
 
@@ -192,7 +192,7 @@ a.btn.white_btn:hover {
 }
 
 .tp-bannertimer {
-    background:-webkit-linear-gradient(left, #9502F7, #039ee3)!important;
+    background:#12841e!important;
 }
 
 
