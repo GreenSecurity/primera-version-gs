@@ -3203,7 +3203,7 @@ span.skill {
 	-------------------------------------------------------------------*/
 
 .testmonial_section {
-	background-image: url('../images/it_service/test_bg.png');
+	background-image: url('https://raw.githubusercontent.com/GreenSecurity/imagenes-GS/main/imagenes%20extra/test_bg.png');
 	background-size: cover;
 	padding-bottom: 185px;
 }
