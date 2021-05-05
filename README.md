@@ -19,6 +19,52 @@ Como cambio drastico podemos destacar el cambio de color principal a verde. A co
 
 Inicio (Sin modificar)
 
+![image](https://user-images.githubusercontent.com/58775176/117188148-05b41e00-addd-11eb-8edc-edf5dcc0b7f7.png)
+
+Sobre nosotros (Sin modificar)
+
+![image](https://user-images.githubusercontent.com/58775176/117188213-182e5780-addd-11eb-9f8a-991f71672645.png)
+
+Tienda (Sin modificar)
+
+![image](https://user-images.githubusercontent.com/58775176/117188327-3bf19d80-addd-11eb-9b0e-495b29fd644d.png)
+
+
+Inicio (Modificado)
+
+![image](https://user-images.githubusercontent.com/58775176/117188386-4f046d80-addd-11eb-9cb0-b00718cb1783.png)
+
+Codigo modificando 
+
+![image](https://user-images.githubusercontent.com/58775176/117188653-9559cc80-addd-11eb-850b-9fa13f2d88fa.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117188713-a60a4280-addd-11eb-8e34-d4fefae5d551.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117188767-b4f0f500-addd-11eb-80dd-a6cb0311c5ec.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117188814-c1754d80-addd-11eb-84e3-f20db3f440a1.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117188970-ebc70b00-addd-11eb-951b-0060370899e0.png)
+
+
+Sobre Nosotros (Modificado)
+
+![image](https://user-images.githubusercontent.com/58775176/117188560-76f3d100-addd-11eb-991e-25112052c681.png)
+
+Codigo modificando
+
+![image](https://user-images.githubusercontent.com/58775176/117189059-0a2d0680-adde-11eb-9d76-368cce1919d3.png)
+
+
+
+Tienda (Modificado)
+
+![image](https://user-images.githubusercontent.com/58775176/117188476-63486a80-addd-11eb-9590-df64ec8550da.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117189108-19ac4f80-adde-11eb-83fb-b97c199a9652.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117189159-28930200-adde-11eb-8b3e-4d278910f6b9.png)
+
 
 
 ## Autores ✒️
