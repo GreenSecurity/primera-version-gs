@@ -53,8 +53,11 @@ Sobre Nosotros (Modificado)
 
 Codigo modificando
 
-![image](https://user-images.githubusercontent.com/58775176/117189059-0a2d0680-adde-11eb-9d76-368cce1919d3.png)
+![image](https://user-images.githubusercontent.com/58775176/117279692-3e4a0b00-ae62-11eb-9adf-ba8466875e57.png)
 
+![image](https://user-images.githubusercontent.com/58775176/117279737-4b66fa00-ae62-11eb-92ef-1a93549f8141.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117279779-5883e900-ae62-11eb-90a4-20bc1aec37bd.png)
 
 
 Tienda (Modificado)
